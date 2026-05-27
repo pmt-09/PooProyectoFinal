@@ -26,7 +26,7 @@ elementosdeprogramacion/
 4. Seguir el menú que aparece en consola
 
 ## Requisitos
-- Java JDK 8 o superior
+- Java JDK 14 o superior
 - Entorno de desarrollo (VS Code, Eclipse, NetBeans, etc.)
 
 ## Autores
